@@ -115,7 +115,7 @@
 .header__paragraph {
   margin: 0;
 }
-.header__paragraph__address {
+.header__paragraph--address {
   z-index: 2;
 }
 
