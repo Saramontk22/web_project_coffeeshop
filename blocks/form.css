@@ -51,7 +51,7 @@
   opacity: 0.7;
 }
 
-.fomr__label_type_checkbox {
+.form__label_type_checkbox {
   display: flex;
   align-items: center;
   gap: 12px;
